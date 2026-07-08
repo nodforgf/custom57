@@ -27,7 +27,7 @@ export default function GiftQuestSection({ onBack, onFinish }: { onBack: () => v
     const [isSpinning, setIsSpinning] = useState(false);
 
     const GIFTS = [
-        "จุ๊บแก้ม10ที ❤️", "หอมแก้ม10นาที 🎀", "เลี้ยงไอติม 💫", "กอด20นาที 🫂",
+        "จุ๊บแก้ม10ที 💞", "หอมแก้ม10นาที 🎀", "เลี้ยงไอติม 💫", "กอด20นาที 🫂",
         "เลี้ยงหมูกระทะ 🥓", "หอมแก้มจนกว่าจะพอใจ 🫶🏻", "จุ๊บ100ครั้ง 💋", "ซื้อของบัสไลท์เยียร์ไห้1ชิ้น 🧸"
     ];
 
